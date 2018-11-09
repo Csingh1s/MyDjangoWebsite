@@ -1,2 +1,2 @@
 # MyDjangoWebsite
-Python-Django Website
+Python-Django Website made by chandrashekhar singh
